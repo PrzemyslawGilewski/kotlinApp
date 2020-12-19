@@ -1,1 +1,2 @@
 Plik testowy
+Zmiana z brancha feature1
